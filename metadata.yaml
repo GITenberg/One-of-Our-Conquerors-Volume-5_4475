@@ -1,5 +1,5 @@
 _repo: One-of-Our-Conquerors-Volume-5_4475
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -27,5 +27,6 @@ subjects:
 - !lcsh 'England -- Social conditions -- 19th century -- Fiction'
 - !lcsh 'English fiction -- 19th century'
 - !lcc 'PR'
+- GITenberg
 title: One of Our Conquerors — Volume 5
 url: http://www.gutenberg.org/ebooks/4475
